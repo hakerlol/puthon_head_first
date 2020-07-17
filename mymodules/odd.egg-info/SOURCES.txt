@@ -1,0 +1,7 @@
+README.txt
+odd.py
+setup.py
+odd.egg-info/PKG-INFO
+odd.egg-info/SOURCES.txt
+odd.egg-info/dependency_links.txt
+odd.egg-info/top_level.txt

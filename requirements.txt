@@ -1,0 +1,3 @@
+Flask~=1.1.2
+odd~=0.0.1a16
+setuptools~=49.2.0
